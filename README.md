@@ -21,13 +21,13 @@ Apesar de serem poucas funcionalidades, usamos:</br>
 
 # Tecnologias utilizadas:</br>
 
--React</br>
--Vite</br>
--Typescript</br>
--Figma</br>
+- React</br>
+- Vite</br>
+- Typescript</br>
+- Figma</br>
 
 # Inicindo o projeto:
 
- -cd to-do-list</br>
- -npm install</br>
- -npm run dev</br>
+ - cd to-do-list</br>
+ - npm install</br>
+ - npm run dev</br>

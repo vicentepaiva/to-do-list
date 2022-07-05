@@ -26,7 +26,7 @@ Apesar de serem poucas funcionalidades, usamos:</br>
 -Typescript</br>
 -Figma</br>
 
-# Inicaindo o projeto:
+# Inicindo o projeto:
 
  -cd to-do-list</br>
  -npm install</br>
